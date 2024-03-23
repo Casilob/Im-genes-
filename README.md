@@ -1,2 +1,2 @@
-# Im-genes-
+# Imagenes-
 Almacenamiento de imágenes 
